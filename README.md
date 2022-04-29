@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ismael</h1>
 <h3 align="center">A passionate computer engineering student from Spain, mostly interested in Linux and Artificial intelligence.</h3>
 
-<img align="right" alt="Coding" width="400" src="http://3.bp.blogspot.com/-Dzod8PgGBtA/US89ti76sqI/AAAAAAAAKZk/cb74Hq1JpP8/s1600/gotroot.gif"
+<img align="right" alt="Coding" width="400" src="http://3.bp.blogspot.com/-Dzod8PgGBtA/US89ti76sqI/AAAAAAAAKZk/cb74Hq1JpP8/s1600/gotroot.gif">
 
 - 🌱 I’m currently studying **computer engineering at FIB, UPC.**
 
