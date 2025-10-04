@@ -2,7 +2,7 @@
 
 <img align="right" src="http://3.bp.blogspot.com/-Dzod8PgGBtA/US89ti76sqI/AAAAAAAAKZk/cb74Hq1JpP8/s1600/gotroot.gif" width="80px" alt="Linux">
 
-I am a graduate in **Informatics Engineering (UPC)**, currently pursuing a **Master in Innovation and Research in Informatics (MIRI) at FIB, UPC**, specializing in **High Performance Computing (HPC)**.
+I am a graduate in **Informatics Engineering at FIB, UPC**, currently pursuing a **Master in Innovation and Research in Informatics (MIRI) at FIB, UPC**, specializing in **High Performance Computing (HPC)**.
 
 ### 🚀 Main Interests
 - **Compiler design**
